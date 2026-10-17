@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "Hisab Master by Rohan",
+  "short_name": "HisabMaster",
+  "description": "Har Hisab Ka Bharosa! Complete offline salon & agriculture management, billing, WhatsApp sharing, and udhaar tracking.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#064e3b",
+  "theme_color": "#064e3b",
+  "categories": ["finance", "business", "productivity"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

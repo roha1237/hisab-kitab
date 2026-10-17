@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064e3b" />
+      <stop offset="50%" stop-color="#022c22" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34d399" />
+      <stop offset="50%" stop-color="#10b981" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bgGrad)" />
+  <circle cx="256" cy="256" r="210" fill="none" stroke="url(#goldGrad)" stroke-width="8" stroke-dasharray="16 12" opacity="0.6"/>
+  <rect x="76" y="76" width="360" height="360" rx="72" fill="#064e3b" stroke="#34d399" stroke-width="4" opacity="0.4"/>
+  <!-- App Monogram HM -->
+  <text x="256" y="275" font-family="system-ui, -apple-system, sans-serif" font-size="160" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="-4">HM</text>
+  <!-- Tagline / Subtitle -->
+  <text x="256" y="340" font-family="system-ui, -apple-system, sans-serif" font-size="30" font-weight="700" fill="#34d399" text-anchor="middle" letter-spacing="1">HISAB MASTER</text>
+  <text x="256" y="380" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#a7f3d0" text-anchor="middle">HAR HISAB KA BHAROSA</text>
+</svg>

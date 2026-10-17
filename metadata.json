@@ -1,0 +1,6 @@
+{
+  "name": "Hisab Master by Rohan",
+  "description": "Har Hisab Ka Bharosa! Complete offline accounting, Salon & Agriculture management, billing, WhatsApp sharing, and udhaar tracking by Rohan Nakshine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
